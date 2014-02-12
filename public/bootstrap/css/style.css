@@ -1,0 +1,34 @@
+/* Main marketing message and sign up button */
+
+
+div.addthis_toolbox {
+    width:300px;
+    margin: 0 auto;
+}
+
+#top-container{
+    padding: 0 15px;
+    
+}
+.page-header{
+    margin-top: 0px;
+
+
+}
+
+
+#addthis{
+    margin-left: 13px;
+}
+
+#bitcoin-container{
+    margin-left: 0px;
+}
+
+#form-container{
+    max-width: 700px;
+
+}
+.progress{
+    width: 300px;
+}
